@@ -144,11 +144,33 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Add screenshots of:
+## 📸 Screenshots
 
-- Home Page
-- Phishing Prediction
-- Safe Email Prediction
+### Home Page
+
+![Home Page - Part 1](screenshots/home_page_1.png)
+
+![Home Page - Part 2](screenshots/home_page_2.png)
+
+### Phishing Prediction
+
+![Phishing Prediction - Part 1](screenshots/phishing_prediction_1.png)
+
+![Phishing Prediction - Part 2](screenshots/phishing_prediction_2.png)
+
+### Safe Email Prediction
+
+![Safe Prediction - Part 1](screenshots/safe_prediction_1.png)
+
+![Safe Prediction - Part 2](screenshots/safe_prediction_2.png)
+
+### Model Comparison
+
+![Model Comparison](screenshots/model_comparison.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
 
 ---
 

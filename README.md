@@ -142,7 +142,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
